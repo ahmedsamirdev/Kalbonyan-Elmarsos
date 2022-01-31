@@ -1,8 +1,4 @@
-### ReactJs
-
-</br>
-
-###### What I learn
+## What I learn
 
 - Build, test, and launch React apps.
 - Use cutting-edge ES6/ES7 JavaScript.
@@ -13,10 +9,7 @@
 
 </br>
 
-### ReactJs Projects
-
-</br>
-
+## ReactJs Projects
 
 **Live Preview**: [Simple Portfolio](http://portfolio-ex.vercel.app/) 
 
