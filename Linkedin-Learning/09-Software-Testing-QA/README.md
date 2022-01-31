@@ -133,5 +133,5 @@ or
 
 <h5><a href="#certificate"></a>Certificate</h5>
 <p align="center">
-  <img  src="https://i.ibb.co/1rGMGx5/Programming-Foundations-Software-Testing-QA.jpg" width="700">
+  <img  src="https://imagizer.imageshack.com/img924/7982/fK4R3e.png" width="700">
 </p>
