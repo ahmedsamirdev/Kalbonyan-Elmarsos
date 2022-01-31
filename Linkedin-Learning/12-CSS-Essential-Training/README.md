@@ -664,6 +664,6 @@ You can also combine them to create a range to apply a style in range of 400px t
 
 <h5><a href="#certificate"></a>Certificate</h5>
 <p align="center">
-  <img  src="https://i.ibb.co/BNDYKmC/CSS-Essential-Training.jpg" width="700">
+  <img  src="https://imagizer.imageshack.com/img924/2/8arsid.png" width="700">
 </p>
 
