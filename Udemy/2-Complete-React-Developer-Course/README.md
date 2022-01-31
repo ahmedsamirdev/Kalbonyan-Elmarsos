@@ -5,7 +5,7 @@
 - Setup authentication and user accounts.
 - Deploy React apps live to the web.
 - Learn the latest React libraries and tools.
-- Master React, Redux, React-Router, and more.
+- Master React, Redux, React-Router, and more. 
 
 </br>
 
