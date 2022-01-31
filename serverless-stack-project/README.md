@@ -1,4 +1,4 @@
-## What I learn
+## What you learn
 
 - Building and deploying full-stack apps using Serverless and React on AWS.
 - Create a note taking app from scratch using React.js, AWS Lambda, API Gateway, DynamoDB, and Cognito.
