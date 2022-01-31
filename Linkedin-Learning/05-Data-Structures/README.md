@@ -156,6 +156,6 @@ print(letters)
 
 <h5 id="certificate">Certificate</h5>
 <p align="center">
-  <img  src="https://i.ibb.co/0VfrTGr/Programming-Foundations-Data-Structures.jpg" width="700">
+  <img  src="https://imagizer.imageshack.com/img924/6316/oAPhtx.png" width="700">
 </p>
 
