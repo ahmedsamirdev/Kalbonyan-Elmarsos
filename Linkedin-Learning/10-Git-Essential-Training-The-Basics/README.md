@@ -76,6 +76,6 @@ By default git ignores directories with no files, we use empty file named `.gitk
 
 <h5><a href="#certificate"></a>Certificate</h5>
 <p align="center">
-  <img  src="https://i.ibb.co/W55CDnr/Git-Essential-Training-The-Basics.jpg" width="700">
+  <img  src="https://imagizer.imageshack.com/img924/1609/XFNoq2.png" width="700">
 </p>
 
