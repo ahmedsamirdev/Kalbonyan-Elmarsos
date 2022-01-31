@@ -28,20 +28,6 @@ Kalbonyan Elmarsos is an Egyptian non-profit organization. The goal is to help s
 
 </br>
 
-**Required tasks of the Internship:**
-
-   - [x] 12 LinkedIn certificate.
-   - [x] 3 Udemy certificate.
-   - [x] 2 Cloud Guru certificate.
-   - [x] Course tasks & Deployed projects.
-   - [x] Serverless-Stack app.
-   - [x] Resume.
-   - [x] Portfolio.
-   - [x] LinkedIn Account.
-   - [x] Solved Quizzes. 
-
-
-
 - - - -
 
 
