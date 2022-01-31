@@ -1,8 +1,4 @@
-### NodeJs
-
-</br>
-
-###### What I learn
+## What I learn
 
 - Build, test, and launch Node apps.
 - Create Express web servers and APIs.
@@ -13,9 +9,8 @@
 
 </br>
 
-### NodeJs Projects
+## NodeJs Projects
 
-</br>
 
 **Project**: [Notes-NodeJs](https://github.com/ahmedsamirdev/notes-nodejs) 
 
