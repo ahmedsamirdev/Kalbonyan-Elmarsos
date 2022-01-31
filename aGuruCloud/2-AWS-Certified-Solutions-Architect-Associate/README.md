@@ -8,6 +8,6 @@ Check some notes on [AWS-Certified-Cloud-Practitioner-2020](https://github.com/a
 
 <h5><a href="#certificate"></a>Certificate</h5>
 <p align="center">
-  <img  src="https://i.ibb.co/TKyf3NN/AWS-Certified-Solutions-Architect-Associate.jpg" width="700">
+  <img  src="https://imagizer.imageshack.com/v2/979x757q90/922/pgCHiI.png" width="700">
 </p>
 
