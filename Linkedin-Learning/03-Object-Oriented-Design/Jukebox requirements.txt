@@ -1,0 +1,11 @@
+# Functional Requirements:(system must be)
+Have many albums
+Set queue or shuffle
+Choose any song
+Search for album
+Anyone can use it with limits
+
+# Non-Functional Requirements:(system should be)
+Able to use in space not floating
+Low voltage
+Can be maintained easily

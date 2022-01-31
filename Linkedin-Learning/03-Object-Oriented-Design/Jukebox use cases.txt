@@ -1,0 +1,12 @@
+# Use cases:
+- Title: Play songs
+- Primary Actor: User
+- Scenario: The user log in and search for albums and choose song to play.
+
+# User stories: 
+- As a user I want to listen to music so that I entertain myself in free time.
+- As a user I want to update albums so that I listen to new songs.
+- As a user I want to sort songs by artists so that I can listen to my favorites only.
+
+Read more about for use cases in:
+Writing Effective Use Cases by Alistair Cockburn

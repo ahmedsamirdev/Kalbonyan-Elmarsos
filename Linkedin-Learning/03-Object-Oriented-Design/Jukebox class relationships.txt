@@ -1,0 +1,12 @@
+# user
+id: string
+
+
+# admin
+createUser
+manageList
+
+
+# albums:
+titles: string
+songs: song
