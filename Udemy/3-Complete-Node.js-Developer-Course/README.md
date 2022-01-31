@@ -5,7 +5,7 @@
 - Store data with Mongoose and MongoDB.
 - Use cutting-edge ES6/ES7 JavaScript.
 - Deploy Node apps to production.
-- Create real-time web apps with SocketIO.
+- Create real-time web apps with SocketIO. 
 
 </br>
 
