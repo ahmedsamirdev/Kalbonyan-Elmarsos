@@ -1,4 +1,4 @@
-## What I learn
+## What you learn
  
 - Learn JavaScript by building three real-world web applications.
 
