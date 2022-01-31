@@ -1,4 +1,4 @@
-## What I learn
+## What you learn
 
 - Build, test, and launch React apps.
 - Use cutting-edge ES6/ES7 JavaScript.
