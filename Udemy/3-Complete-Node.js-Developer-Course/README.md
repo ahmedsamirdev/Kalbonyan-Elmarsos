@@ -37,6 +37,6 @@
 
 <h5><a href="#certificate"></a>Certificate</h5>
 <p align="center">
-  <img  src="https://i.ibb.co/2NqN72v/The-Complete-Node-js-Developer-Course-3rd-Edition.jpg" width="700">
+  <img  src="https://imagizer.imageshack.com/v2/1017x757q90/924/uzD8jX.png" width="700">
 </p>
 
