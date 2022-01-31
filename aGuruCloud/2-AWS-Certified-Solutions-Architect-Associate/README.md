@@ -1,6 +1,6 @@
 ### Course Notes..
 
-
+Check some notes on [AWS-Certified-Cloud-Practitioner-2020](https://github.com/ahmedsamirdev/Kalbonyan-Elmarsos/tree/main/aGuruCloud/1-AWS-Certified-Cloud-Practitioner-2020)
 
 
 ---
