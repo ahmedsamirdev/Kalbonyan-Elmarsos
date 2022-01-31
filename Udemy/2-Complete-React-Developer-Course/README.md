@@ -34,6 +34,6 @@
 
 <h5><a href="#certificate"></a>Certificate</h5>
 <p align="center">
-  <img  src="https://i.ibb.co/sw97v0d/The-Complete-React-Developer-Course-w-Hooks-and-Redux.jpg" width="700">
+  <img  src="https://imagizer.imageshack.com/a/img923/7095/T1fSn7.png" width="700">
 </p>
 
