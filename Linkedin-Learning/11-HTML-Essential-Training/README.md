@@ -256,6 +256,6 @@ Add comment by use `<! -- YOUR COMMENT GOES HERE -->`
 
 <h5><a href="#certificate"></a>Certificate</h5>
 <p align="center">
-  <img  src="https://i.ibb.co/3CVNjL4/HTML-Essential-Training.jpg" width="700">
+  <img  src="https://imagizer.imageshack.com/img924/2898/iHuGti.png" width="700">
 </p>
 
