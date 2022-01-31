@@ -1,8 +1,4 @@
-### JavaScript
-
-</br>
-
-###### What I learn
+## What I learn
 
 - Learn JavaScript by building three real-world web applications.
 
@@ -20,10 +16,7 @@
 
   </br>
 
-#### JavaScript Projects
-
-</br>
-
+## JavaScript Projects
 
 **Live Preview**: [My Todo app](https://my-todos-app.vercel.app/) 
 
